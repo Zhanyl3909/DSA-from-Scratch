@@ -1,2 +1,0 @@
-# Algorithms-
-Concepts of Algorithm
