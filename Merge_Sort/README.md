@@ -5,7 +5,7 @@
 2. 정복 - 배열의 크기가 충분히 작으면 직접 정렬한다.
 3. 통합 - 부분배열에 저장된 두 개의 정렬된 리스트를 하나로 정렬하여 배열에 저장한다. 
 4. 
-![App Screenshot](/Merge/Merge.png)
+![App Screenshot](/Merge_Sort/Merge.png)
 
 ```java
 void mergeSort(keytype S[], index low, index high) {
