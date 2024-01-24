@@ -17,6 +17,7 @@ class SelectionSort
 			arr[i] = temp;
 		}
 	}
+	
 	void printArray(int arr[])
 	{
 		int n = arr.length;
